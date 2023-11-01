@@ -1,2 +1,2 @@
-# pro_8
+# project_8
 Make an income prediction. You work at the multinational bank: MegaBank!!!
